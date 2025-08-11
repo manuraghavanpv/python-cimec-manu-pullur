@@ -17,7 +17,7 @@
 * Upon reaching the final step, you will observe the original, noisy, and denoised images as well as the values for PSNR and SSIM.
 
 ## Notes:
-* For an overview of similar research is done with MRI images, I recommend reading Manzano-Patron et al., 2024 (https://doi.org/10.1162/imag_a_00060)
+* For an overview of how similar research is done with MRI images, I recommend reading Manzano-Patron et al., 2024 (https://doi.org/10.1162/imag_a_00060)
 * In case you find any issue with the code or have any follow up questions, feel free to reach out to me at mr.pullur@unitn.it
 * Warning: It is normal for the PCA to take longer durations to complete due to differing computer specifications or network issues.
 
